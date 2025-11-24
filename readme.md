@@ -48,7 +48,7 @@ Former decent video game player who legitimately grinded despite the challenges.
 - Implemented a spoofer combined with in-depth BIOS research, allowing serial modifications directly at the firmware level, adaptable depending on the motherboard manufacturer.  
 - Implemented an auto-offsets updater to keep cheats ready immediately after small patches with zero downtime.  
 - Implemented TPM, HVCI, Secure Boot, and IOMMU bypasses preventing game closures due to disabled security features.  
-- Implemented a TPM serial randomizer before it was patched for enhanced stealth at BIOS level.  
+- Implemented a TPM serial randomizer before it was patched.  
 - Implemented a near-perfect external aimbot with configurable smooth, legit aiming and desync control, extensively tested on long sessions with trusted testers.  
 - Implemented a fully synced, reliable triggerbot complementing the aimbot.  
 - Implemented a decent ESP featuring box and skeleton visuals displaying player models, weapons, and health.  
