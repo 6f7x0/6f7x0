@@ -10,7 +10,7 @@
 - [Past Projects](#past-projects)  
 - [Contact](#contact)
 
-Former decent video game player who legitimately grinded despite the challenges. Difficult as it may sound, this experience provided me with invaluable firsthand insight into game mechanics and competitive integrity.
+Former decent video game player who legitimately grinded. Difficult as it may sound, this experience provided me with invaluable firsthand insight into game mechanics and competitive integrity.
 
 ## Scope
 
