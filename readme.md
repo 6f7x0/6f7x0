@@ -28,7 +28,7 @@ Former decent video game player who legitimately grinded. Difficult as it may so
 
 - Execution methods focused on reducing footprint and exposure.  
 - Understanding that total invisibility is impossible against modern kernel anticheats.  
-- Use of signed kernel driver to improve stealth while ensuring system integrity.  
+- Use of signed driver to improve stealth while ensuring system integrity.  
 - Emphasis on risk reduction and maximizing evasion, informed by community insights and real-world detection patterns.
 
 ## Operational Status
