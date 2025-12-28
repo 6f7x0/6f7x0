@@ -7,7 +7,6 @@
 - [Anticheat Awareness](#anticheat-awareness)  
 - [Operational Status](#operational-status)  
 - [Development Approach](#development-approach)  
-- [Past Projects](#past-projects)  
 - [Contact](#contact)
 
 Former decent video game player who legitimately grinded. Difficult as it may sound, this experience provided me with invaluable firsthand insight into game mechanics and competitive integrity.
@@ -43,19 +42,6 @@ Former decent video game player who legitimately grinded. Difficult as it may so
 - No code reuse or exposure to external parties.  
 - Ensures clean termination and purely volatile states.
 
-## Past Projects
-
-- Implemented a spoofer combined with in-depth BIOS research, allowing serial modifications directly at the firmware level, adaptable depending on the motherboard manufacturer.  
-- Implemented an auto-offsets updater to keep cheats ready immediately after small patches with zero downtime.  
-- Implemented TPM, HVCI, Secure Boot, and IOMMU bypasses preventing game closures due to disabled security features.  
-- Implemented a TPM serial randomizer (hooks and overwrite) before it was patched.  
-- Implemented a near-perfect external aimbot with configurable smooth, legit aiming and desync control, extensively tested on long sessions with trusted testers.  
-- Implemented a fully synced, reliable triggerbot complementing the aimbot.  
-- Implemented a decent ESP featuring box and skeleton visuals displaying player models, weapons, and health.  
-- Implemented “La Toupis,” a widely recognized tool within cheat developer communities.  
-- Implemented a skinchanger and custom launcher for League of Loosers.  
-- Implemented various projects on Minecraft, CS2, and F0Rtn1tegg.  
-- All remain private, focusing on deep research and skill development over commercial distribution, with over 3 years of continuous work.
 
 ## Contact
 
